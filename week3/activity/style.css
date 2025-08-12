@@ -1,0 +1,65 @@
+.head1{
+    text-align: right;
+}
+
+.head2{
+    text-align: center;
+    color:red;  
+}
+
+
+
+
+.head3{
+    color: azure;
+    border:5px;
+    text-align:left;
+    background-color: black;
+    width:500px;
+    padding:10px;
+    margin-bottom: 200px;
+    border:5px solid color(red );
+}
+.head4{
+    text-align: left;
+    color:greenyellow;
+    
+}
+.head5{
+    color: yellow;
+}
+
+.par4{
+    font-size: 40;
+}
+
+.par6{
+    text-align: right;
+}
+.par7{
+     color: azure;
+    border:5px;
+    text-align:left;
+    background-color: black;
+    width:500px;
+    padding:50px;
+    margin-bottom: 200px;
+    
+    
+}
+    .par8{
+ color: white;
+    border:5px;
+    text-align:left;
+    background-color: red;
+    width:50;
+    padding:50px;
+    margin-bottom: 200px;
+    }
+
+
+
+body{
+    background-color: #16365d;
+
+}
